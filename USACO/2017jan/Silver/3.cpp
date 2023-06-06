@@ -1,7 +1,7 @@
 // USACO 2017 January Contest, Silver
 // Problem 3. Secret Cow Code
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=692
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

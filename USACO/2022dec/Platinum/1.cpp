@@ -1,7 +1,7 @@
 // USACO 2022 December Contest, Platinum
 // Problem 1. Breakdown
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1260
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

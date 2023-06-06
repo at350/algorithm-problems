@@ -1,7 +1,7 @@
 // USACO 2020 December Contest, Gold
 // Problem 3. Square Pasture
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1067
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

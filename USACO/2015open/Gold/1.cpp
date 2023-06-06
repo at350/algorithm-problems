@@ -1,7 +1,7 @@
 // USACO 2015 US Open, Gold
 // Problem 1. Googol
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=552
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

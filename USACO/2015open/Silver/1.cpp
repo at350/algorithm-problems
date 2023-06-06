@@ -1,7 +1,7 @@
 // USACO 2015 US Open, Silver
 // Problem 1. Bessie Goes Moo
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=549
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

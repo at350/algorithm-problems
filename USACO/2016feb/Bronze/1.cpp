@@ -1,7 +1,7 @@
 // USACO 2016 February Contest, Bronze
 // Problem 1. Milk Pails
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=615
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

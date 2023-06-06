@@ -1,7 +1,7 @@
 // USACO 2015 December Contest, Bronze
 // Problem 1. Fence Painting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=567
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

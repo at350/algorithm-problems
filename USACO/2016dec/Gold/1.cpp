@@ -1,7 +1,7 @@
 // USACO 2016 December Contest, Gold
 // Problem 1. Moocast
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=669
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

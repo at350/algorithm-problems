@@ -1,7 +1,7 @@
 // USACO 2019 December Contest, Platinum
 // Problem 1. Greedy Pie Eaters
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=972
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

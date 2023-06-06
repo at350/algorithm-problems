@@ -1,7 +1,7 @@
 // USACO 2019 December Contest, Platinum
 // Problem 3. Tree Depth
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=974
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

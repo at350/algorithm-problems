@@ -1,7 +1,7 @@
 // USACO 2015 February Contest, Gold
 // Problem 2. Censoring (Gold)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=533
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

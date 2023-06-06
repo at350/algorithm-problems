@@ -1,7 +1,7 @@
 // USACO 2020 January Contest, Bronze
 // Problem 2. Photoshoot
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=988
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

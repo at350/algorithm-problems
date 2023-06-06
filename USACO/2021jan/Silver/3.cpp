@@ -1,7 +1,7 @@
 // USACO 2021 January Contest, Silver
 // Problem 3. Spaced Out
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1088
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

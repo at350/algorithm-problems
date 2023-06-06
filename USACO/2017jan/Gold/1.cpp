@@ -1,7 +1,7 @@
 // USACO 2017 January Contest, Gold
 // Problem 1. Balanced Photo
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=693
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

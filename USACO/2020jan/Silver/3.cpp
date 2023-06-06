@@ -1,7 +1,7 @@
 // USACO 2020 January Contest, Silver
 // Problem 3. Wormhole Sort
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=992
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

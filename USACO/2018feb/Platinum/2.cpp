@@ -1,7 +1,7 @@
 // USACO 2018 February Contest, Platinum
 // Problem 2. New Barns
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=817
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

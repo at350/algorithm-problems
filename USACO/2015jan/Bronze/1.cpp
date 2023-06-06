@@ -1,7 +1,7 @@
 // USACO 2015 January Contest, Bronze
 // Problem 1. Cow Routing
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=507
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

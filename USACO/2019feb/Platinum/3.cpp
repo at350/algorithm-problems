@@ -1,7 +1,7 @@
 // USACO 2019 February Contest, Platinum
 // Problem 3. Mowing Mischief
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=926
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

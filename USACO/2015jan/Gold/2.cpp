@@ -1,7 +1,7 @@
 // USACO 2015 January Contest, Gold
 // Problem 2. Moovie Mooving
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=515
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2019 US Open Contest, Silver
 // Problem 1. Left Out
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=942
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

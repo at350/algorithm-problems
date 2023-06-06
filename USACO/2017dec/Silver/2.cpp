@@ -1,7 +1,7 @@
 // USACO 2017 December Contest, Silver
 // Problem 2. Milk Measurement
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=763
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

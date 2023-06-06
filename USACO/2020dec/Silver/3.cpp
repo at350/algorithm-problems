@@ -1,7 +1,7 @@
 // USACO 2020 December Contest, Silver
 // Problem 3. Stuck in a Rut
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1064
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

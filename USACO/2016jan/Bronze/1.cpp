@@ -1,7 +1,7 @@
 // USACO 2016 January Contest, Bronze
 // Problem 1. Promotion Counting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=591
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

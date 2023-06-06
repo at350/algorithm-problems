@@ -1,7 +1,7 @@
 // USACO 2015 February Contest, Bronze
 // Problem 3. Cow Hopscotch (Bronze)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=528
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

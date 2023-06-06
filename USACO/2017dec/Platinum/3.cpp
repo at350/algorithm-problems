@@ -1,7 +1,7 @@
 // USACO 2017 December Contest, Platinum
 // Problem 3. Greedy Gift Takers
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=770
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

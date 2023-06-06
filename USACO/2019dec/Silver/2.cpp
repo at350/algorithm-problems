@@ -1,7 +1,7 @@
 // USACO 2019 December Contest, Silver
 // Problem 2. Meetings
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=967
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

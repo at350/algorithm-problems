@@ -1,7 +1,7 @@
 // USACO 2018 December Contest, Bronze
 // Problem 2. The Bucket List
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=856
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2022 January Contest, Silver
 // Problem 2. Cow Frisbee
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1183
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

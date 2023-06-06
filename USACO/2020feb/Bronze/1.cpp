@@ -1,7 +1,7 @@
 // USACO 2020 February Contest, Bronze
 // Problem 1. Triangles
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1011
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

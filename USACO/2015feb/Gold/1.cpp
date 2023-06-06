@@ -1,7 +1,7 @@
 // USACO 2015 February Contest, Gold
 // Problem 1. Cow Hopscotch (Gold)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=532
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

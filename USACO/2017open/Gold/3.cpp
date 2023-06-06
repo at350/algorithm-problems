@@ -1,7 +1,7 @@
 // USACO 2017 US Open Contest, Gold
 // Problem 3. Modern Art 2
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=743
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

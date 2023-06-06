@@ -1,7 +1,7 @@
 // USACO 2023 February Contest, Gold
 // Problem 2. Fertilizing Pastures
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1306
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

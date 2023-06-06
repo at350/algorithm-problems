@@ -1,7 +1,7 @@
 // USACO 2016 January Contest, Gold
 // Problem 3. Lights Out
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=599
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

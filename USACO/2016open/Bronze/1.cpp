@@ -1,7 +1,7 @@
 // USACO 2016 US Open Contest, Bronze
 // Problem 1. Diamond Collector
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=639
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

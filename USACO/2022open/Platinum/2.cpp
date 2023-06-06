@@ -1,7 +1,7 @@
 // USACO 2022 US Open Contest, Platinum
 // Problem 2. Hoof and Brain
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1237
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

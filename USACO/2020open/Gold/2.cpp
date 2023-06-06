@@ -1,7 +1,7 @@
 // USACO 2020 US Open Contest, Gold
 // Problem 2. Favorite Colors
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1042
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

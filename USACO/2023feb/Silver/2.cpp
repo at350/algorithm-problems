@@ -1,7 +1,7 @@
 // USACO 2023 February Contest, Silver
 // Problem 2. Cow-libi
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1303
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

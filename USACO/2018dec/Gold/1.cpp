@@ -1,7 +1,7 @@
 // USACO 2018 December Contest, Gold
 // Problem 1. Fine Dining
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=861
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

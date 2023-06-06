@@ -1,7 +1,7 @@
 // USACO 2019 January Contest, Silver
 // Problem 1. Grass Planting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=894
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

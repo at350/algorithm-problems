@@ -1,7 +1,7 @@
 // USACO 2018 February Contest, Bronze
 // Problem 2. Hoofball
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=808
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

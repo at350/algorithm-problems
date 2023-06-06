@@ -1,7 +1,7 @@
 // USACO 2018 January Contest, Gold
 // Problem 2. Cow at Large
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=790
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2019 US Open Contest, Silver
 // Problem 2. Cow Steeplechase II
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=943
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

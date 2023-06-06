@@ -1,7 +1,7 @@
 // USACO 2016 January Contest, Gold
 // Problem 2. Radio Contact
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=598
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

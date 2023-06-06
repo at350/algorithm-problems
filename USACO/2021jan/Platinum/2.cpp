@@ -1,7 +1,7 @@
 // USACO 2021 January Contest, Platinum
 // Problem 2. Minimum Cost Paths
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1093
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

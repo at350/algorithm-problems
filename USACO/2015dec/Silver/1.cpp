@@ -1,7 +1,7 @@
 // USACO 2015 December Contest, Silver
 // Problem 1. Switching on the Lights
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=570
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

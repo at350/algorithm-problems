@@ -1,7 +1,7 @@
 // USACO 2019 January Contest, Bronze
 // Problem 3. Guess the Animal
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=893
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

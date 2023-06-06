@@ -1,7 +1,7 @@
 // USACO 2023 US Open Contest, Gold
 // Problem 2. Pareidolia
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1330
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2022 February Contest, Silver
 // Problem 1. Redistributing Gifts
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1206
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

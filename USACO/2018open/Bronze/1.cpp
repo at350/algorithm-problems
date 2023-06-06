@@ -1,7 +1,7 @@
 // USACO 2018 US Open Contest, Bronze
 // Problem 1. Team Tic Tac Toe
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=831
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

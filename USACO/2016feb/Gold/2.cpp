@@ -1,7 +1,7 @@
 // USACO 2016 February Contest, Gold
 // Problem 2. Circular Barn Revisited
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=622
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

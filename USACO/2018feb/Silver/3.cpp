@@ -1,7 +1,7 @@
 // USACO 2018 February Contest, Silver
 // Problem 3. Teleportation
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=812
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

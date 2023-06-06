@@ -1,7 +1,7 @@
 // USACO 2022 February Contest, Silver
 // Problem 3. Email Filing
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1208
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

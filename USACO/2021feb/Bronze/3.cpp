@@ -1,7 +1,7 @@
 // USACO 2021 February Contest, Bronze
 // Problem 3. Clockwise Fence
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1109
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2016 December Contest, Platinum
 // Problem 1. Lots of Triangles
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=672
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

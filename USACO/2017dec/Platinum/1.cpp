@@ -1,7 +1,7 @@
 // USACO 2017 December Contest, Platinum
 // Problem 1. Standing Out from the Herd
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=768
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

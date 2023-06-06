@@ -1,7 +1,7 @@
 // USACO 2023 February Contest, Silver
 // Problem 1. Bakery
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1302
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

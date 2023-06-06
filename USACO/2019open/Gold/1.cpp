@@ -1,7 +1,7 @@
 // USACO 2019 US Open Contest, Gold
 // Problem 1. Snakes
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=945
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

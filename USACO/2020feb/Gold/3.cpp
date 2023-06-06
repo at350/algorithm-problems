@@ -1,7 +1,7 @@
 // USACO 2020 February Contest, Gold
 // Problem 3. Delegation
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1019
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

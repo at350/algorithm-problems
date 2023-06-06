@@ -1,7 +1,7 @@
 // USACO 2020 December Contest, Gold
 // Problem 2. Bovine Genetics
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1066
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

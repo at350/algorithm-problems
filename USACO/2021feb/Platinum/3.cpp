@@ -1,7 +1,7 @@
 // USACO 2021 February Contest, Platinum
 // Problem 3. Counting Graphs
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1118
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

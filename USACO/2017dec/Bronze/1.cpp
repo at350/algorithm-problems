@@ -1,7 +1,7 @@
 // USACO 2017 December Contest, Bronze
 // Problem 1. Blocked Billboard
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=759
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

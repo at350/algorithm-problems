@@ -1,7 +1,7 @@
 // USACO 2021 February Contest, Gold
 // Problem 1. Stone Game
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1113
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

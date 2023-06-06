@@ -1,7 +1,7 @@
 // USACO 2022 December Contest, Gold
 // Problem 3. Strongest Friendship Group
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1259
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

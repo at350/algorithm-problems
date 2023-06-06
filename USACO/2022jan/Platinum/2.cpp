@@ -1,7 +1,7 @@
 // USACO 2022 January Contest, Platinum
 // Problem 2. Counting Haybales
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1189
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

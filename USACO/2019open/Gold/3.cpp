@@ -1,7 +1,7 @@
 // USACO 2019 US Open Contest, Gold
 // Problem 3. Balancing Inversions
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=947
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

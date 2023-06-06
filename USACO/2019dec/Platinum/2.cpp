@@ -1,7 +1,7 @@
 // USACO 2019 December Contest, Platinum
 // Problem 2. Bessie's Snow Cow
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=973
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,6 @@
 from pathlib import Path
-
 from templator import *
-from USACO.common import *
+from USACO_common import *
 
 
 def get_file_io(io_file: str) -> str:
@@ -11,8 +10,8 @@ def get_file_io(io_file: str) -> str:
 
 
 class USACOTemplator(Templator):
-    def __init__(self, data_file: str, force_updated=False) -> None:
-        super().__init__(data_file, force_updated)
+    def __init__(self, data_file: str) -> None:
+        super().__init__(data_file)
 
     def generate_templates(self) -> None:
         for contest, contest_data in self.data.items():
@@ -29,17 +28,15 @@ class USACOTemplator(Templator):
                         f.write(f'// {first_line}\n')
                         f.write(f'// {second_line}\n')
                         f.write(f'// link: {problem_data["link"]}\n')
-                        f.write('// status: unresolved \n')
+                        f.write('// status: unsolved \n')
                         f.write('// tag: \n')
                         f.write('\n')
 
                         with open(template_path, 'r') as template:
-                            f.write(template.read().replace(
-                                '"__IO_PLACEHOLDER__";\n', get_file_io(problem_data['io_file'])))
+                            f.write(template.read().replace('"__IO_PLACEHOLDER__";\n', get_file_io(problem_data['io_file'])))
 
-                    print(
-                        f'Generated template for, {first_line}, {second_line}')
+                    print(f'Generated template for, {first_line}, {second_line}')
 
 
 if __name__ == '__main__':
-    USACOTemplator(data_file, host).run()
+    USACOTemplator(data_file).run()

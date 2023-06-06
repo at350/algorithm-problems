@@ -1,7 +1,7 @@
 // USACO 2023 January Contest, Platinum
 // Problem 3. Subtree Activation
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1286
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2023 January Contest, Gold
 // Problem 3. Moo Route
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1283
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

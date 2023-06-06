@@ -1,7 +1,7 @@
 // USACO 2018 February Contest, Gold
 // Problem 1. Snow Boots
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=813
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

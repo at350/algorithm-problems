@@ -1,7 +1,7 @@
 // USACO 2022 January Contest, Bronze
 // Problem 3. Drought
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1181
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

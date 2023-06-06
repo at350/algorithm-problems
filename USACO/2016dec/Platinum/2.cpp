@@ -1,7 +1,7 @@
 // USACO 2016 December Contest, Platinum
 // Problem 2. Team Building
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=673
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

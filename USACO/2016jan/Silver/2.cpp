@@ -1,7 +1,7 @@
 // USACO 2016 January Contest, Silver
 // Problem 2. Subsequences Summing to Sevens
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=595
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

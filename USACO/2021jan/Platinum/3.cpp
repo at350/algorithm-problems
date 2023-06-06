@@ -1,7 +1,7 @@
 // USACO 2021 January Contest, Platinum
 // Problem 3. Paint by Letters
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1094
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2022 US Open Contest, Gold
 // Problem 1. Apple Catching
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1233
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

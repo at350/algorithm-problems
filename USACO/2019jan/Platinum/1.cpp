@@ -1,7 +1,7 @@
 // USACO 2019 January Contest, Platinum
 // Problem 1. Redistricting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=900
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

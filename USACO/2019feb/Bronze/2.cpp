@@ -1,7 +1,7 @@
 // USACO 2019 February Contest, Bronze
 // Problem 2. The Great Revegetation
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=916
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

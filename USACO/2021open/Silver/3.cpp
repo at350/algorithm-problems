@@ -1,7 +1,7 @@
 // USACO 2021 US Open, Silver
 // Problem 3. Acowdemia
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1136
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

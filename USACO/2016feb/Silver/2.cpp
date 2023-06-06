@@ -1,7 +1,7 @@
 // USACO 2016 February Contest, Silver
 // Problem 2. Load Balancing
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=619
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

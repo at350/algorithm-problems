@@ -1,7 +1,7 @@
 // USACO 2017 US Open Contest, Platinum
 // Problem 2. Switch Grass
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=745
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

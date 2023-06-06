@@ -1,7 +1,7 @@
 // USACO 2021 US Open, Bronze
 // Problem 3. Acowdemia III
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1133
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

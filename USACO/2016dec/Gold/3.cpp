@@ -1,7 +1,7 @@
 // USACO 2016 December Contest, Gold
 // Problem 3. Lasers and Mirrors
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=671
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

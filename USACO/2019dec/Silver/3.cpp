@@ -1,7 +1,7 @@
 // USACO 2019 December Contest, Silver
 // Problem 3. Milk Visits
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=968
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

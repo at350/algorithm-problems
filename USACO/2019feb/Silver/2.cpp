@@ -1,7 +1,7 @@
 // USACO 2019 February Contest, Silver
 // Problem 2. Painting the Barn
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=919
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

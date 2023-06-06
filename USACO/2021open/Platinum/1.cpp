@@ -1,7 +1,7 @@
 // USACO 2021 US Open, Platinum
 // Problem 1. United Cows of Farmer John
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1140
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

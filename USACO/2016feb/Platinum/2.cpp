@@ -1,7 +1,7 @@
 // USACO 2016 February Contest, Platinum
 // Problem 2. Fenced In
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=625
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

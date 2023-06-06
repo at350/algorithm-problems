@@ -1,7 +1,7 @@
 // USACO 2023 January Contest, Gold
 // Problem 2. Lights Off
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1282
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

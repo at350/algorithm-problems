@@ -1,7 +1,7 @@
 // USACO 2016 US Open Contest, Platinum
 // Problem 1. 262144
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=648
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

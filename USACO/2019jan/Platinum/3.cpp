@@ -1,7 +1,7 @@
 // USACO 2019 January Contest, Platinum
 // Problem 3. Train Tracking 2
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=902
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2018 January Contest, Gold
 // Problem 3. Stamp Painting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=791
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

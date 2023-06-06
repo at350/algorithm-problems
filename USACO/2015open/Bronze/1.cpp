@@ -1,7 +1,7 @@
 // USACO 2015 US Open, Bronze
 // Problem 1. Moocryption
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=545
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

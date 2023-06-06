@@ -1,7 +1,7 @@
 // USACO 2017 December Contest, Gold
 // Problem 1. A Pie for a Pie
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=765
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

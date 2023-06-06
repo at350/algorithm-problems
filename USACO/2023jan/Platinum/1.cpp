@@ -1,7 +1,7 @@
 // USACO 2023 January Contest, Platinum
 // Problem 1. Tractor Paths
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1284
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

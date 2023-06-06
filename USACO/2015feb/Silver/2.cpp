@@ -1,7 +1,7 @@
 // USACO 2015 February Contest, Silver
 // Problem 2. Cow Hopscotch (Silver)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=530
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

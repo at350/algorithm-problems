@@ -1,7 +1,7 @@
 // USACO 2021 December Contest, Platinum
 // Problem 2. Paired Up
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1165
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

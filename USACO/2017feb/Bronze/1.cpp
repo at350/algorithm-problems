@@ -1,7 +1,7 @@
 // USACO 2017 February Contest, Bronze
 // Problem 1. Why Did the Cow Cross the Road
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=711
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

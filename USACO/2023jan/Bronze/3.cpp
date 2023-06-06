@@ -1,7 +1,7 @@
 // USACO 2023 January Contest, Bronze
 // Problem 3. Moo Operations
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1277
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

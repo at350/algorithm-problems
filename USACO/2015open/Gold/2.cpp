@@ -1,7 +1,7 @@
 // USACO 2015 US Open, Gold
 // Problem 2. Palindromic Paths
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=553
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

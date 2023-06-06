@@ -1,7 +1,7 @@
 // USACO 2022 US Open Contest, Platinum
 // Problem 3. Up Down Subsequence
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1238
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

@@ -1,7 +1,7 @@
 // USACO 2019 US Open Contest, Platinum
 // Problem 1. Tree Boxes
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=948
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

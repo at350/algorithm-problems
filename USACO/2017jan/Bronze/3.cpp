@@ -1,7 +1,7 @@
 // USACO 2017 January Contest, Bronze
 // Problem 3. Cow Tipping
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=689
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

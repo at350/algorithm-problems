@@ -1,7 +1,7 @@
 // USACO 2021 December Contest, Gold
 // Problem 2. HILO
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1162
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

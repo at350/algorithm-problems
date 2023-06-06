@@ -1,7 +1,7 @@
 // USACO 2018 February Contest, Silver
 // Problem 1. Rest Stops
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=810
-// status: unresolved 
+// status: unsolved 
 // tag: 
 
 #include <bits/stdc++.h>

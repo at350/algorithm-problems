@@ -2,9 +2,8 @@ import json
 import os
 
 class Templator:
-    def __init__(self, data_file: str, force_updated: bool) -> None:
+    def __init__(self, data_file: str) -> None:
         self.data_file = data_file
-        self.force_updated = force_updated
         if os.path.exists(self.data_file):
             with open(self.data_file, 'r') as f:
                 self.data = json.load(f)
