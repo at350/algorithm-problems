@@ -1,8 +1,8 @@
 # USACO
-#### Bronze Solved 0/107
-#### Silver Solved 0/105
-#### Gold Solved 0/104
-#### Platinum Solved 0/96
+#### Bronze Solved 0/107 0.00%
+#### Silver Solved 0/105 0.00%
+#### Gold Solved 0/104 0.00%
+#### Platinum Solved 0/96 0.00%
 # 2023open
 
 | Problem | Problem Title | Problem Link | Code | Status |
