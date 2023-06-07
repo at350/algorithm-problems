@@ -1,8 +1,8 @@
 // USACO 2016 US Open Contest, Bronze
 // Problem 2. Bull in a China Shop
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=640
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

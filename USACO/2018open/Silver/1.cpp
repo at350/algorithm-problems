@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Silver
 // Problem 1. Out of Sorts
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=834
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -1,8 +1,8 @@
 // USACO 2016 January Contest, Bronze
 // Problem 3. Mowing the Field
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=593
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

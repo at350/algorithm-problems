@@ -1,8 +1,8 @@
 // USACO 2019 January Contest, Bronze
 // Problem 2. Sleepy Cow Sorting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=892
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

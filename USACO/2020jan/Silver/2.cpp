@@ -1,8 +1,8 @@
 // USACO 2020 January Contest, Silver
 // Problem 2. Loan Repayment
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=991
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

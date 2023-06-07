@@ -1,8 +1,8 @@
 // USACO 2015 January Contest, Silver
 // Problem 1. Stampede
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=511
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

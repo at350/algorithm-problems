@@ -1,8 +1,8 @@
 // USACO 2018 January Contest, Bronze
 // Problem 3. Out of Place
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=785
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -1,8 +1,8 @@
 // USACO 2019 December Contest, Gold
 // Problem 3. Moortal Cowmbat
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=971
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

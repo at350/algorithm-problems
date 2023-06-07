@@ -1,8 +1,8 @@
 // USACO 2015 December Contest, Platinum
 // Problem 1. Max Flow
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=576
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

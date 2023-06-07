@@ -1,8 +1,8 @@
 // USACO 2020 February Contest, Gold
 // Problem 1. Timeline
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1017
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

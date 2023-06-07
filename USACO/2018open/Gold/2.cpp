@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Gold
 // Problem 2. Milking Order
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=838
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

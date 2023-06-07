@@ -1,8 +1,8 @@
 // USACO 2015 January Contest, Bronze
 // Problem 4. Meeting Time
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=510
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

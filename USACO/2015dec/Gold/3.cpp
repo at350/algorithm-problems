@@ -1,8 +1,8 @@
 // USACO 2015 December Contest, Gold
 // Problem 3. Bessie's Dream
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=575
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

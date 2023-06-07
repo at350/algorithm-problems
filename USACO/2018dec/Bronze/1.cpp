@@ -1,8 +1,8 @@
 // USACO 2018 December Contest, Bronze
 // Problem 1. Mixing Milk
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=855
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

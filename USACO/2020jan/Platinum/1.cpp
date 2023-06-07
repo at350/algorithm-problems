@@ -1,8 +1,8 @@
 // USACO 2020 January Contest, Platinum
 // Problem 1. Cave Paintings
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=996
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

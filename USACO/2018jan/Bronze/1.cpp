@@ -1,8 +1,8 @@
 // USACO 2018 January Contest, Bronze
 // Problem 1. Blocked Billboard II
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=783
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

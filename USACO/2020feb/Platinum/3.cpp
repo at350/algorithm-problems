@@ -1,8 +1,8 @@
 // USACO 2020 February Contest, Platinum
 // Problem 3. Help Yourself
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1022
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

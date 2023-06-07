@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Platinum
 // Problem 3. Disruption
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=842
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

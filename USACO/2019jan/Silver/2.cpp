@@ -1,8 +1,8 @@
 // USACO 2019 January Contest, Silver
 // Problem 2. Icy Perimeter
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=895
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

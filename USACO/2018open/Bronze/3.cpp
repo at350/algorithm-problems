@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Bronze
 // Problem 3. Family Tree
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=833
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

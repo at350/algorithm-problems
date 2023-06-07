@@ -1,8 +1,8 @@
 // USACO 2019 December Contest, Bronze
 // Problem 2. Where Am I?
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=964
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

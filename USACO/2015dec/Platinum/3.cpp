@@ -1,8 +1,8 @@
 // USACO 2015 December Contest, Platinum
 // Problem 3. Counting Haybales
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=578
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

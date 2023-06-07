@@ -1,8 +1,8 @@
 // USACO 2016 December Contest, Silver
 // Problem 2. Cities and States
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=667
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

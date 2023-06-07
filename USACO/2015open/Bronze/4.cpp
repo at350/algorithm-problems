@@ -1,8 +1,8 @@
 // USACO 2015 US Open, Bronze
 // Problem 4. Palindromic Paths (Bronze)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=548
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

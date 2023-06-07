@@ -1,8 +1,8 @@
 // USACO 2020 US Open Contest, Gold
 // Problem 1. Haircut
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1041
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

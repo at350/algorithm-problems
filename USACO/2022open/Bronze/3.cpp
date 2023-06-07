@@ -1,8 +1,8 @@
 // USACO 2022 US Open Contest, Bronze
 // Problem 3. Alchemy
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1229
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 
@@ -15,6 +15,6 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    
+
     return 0;
 }

@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Platinum
 // Problem 1. Out of Sorts
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=840
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

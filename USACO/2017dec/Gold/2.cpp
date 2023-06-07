@@ -1,8 +1,8 @@
 // USACO 2017 December Contest, Gold
 // Problem 2. Barn Painting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=766
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

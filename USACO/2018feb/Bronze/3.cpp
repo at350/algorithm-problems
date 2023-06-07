@@ -1,8 +1,8 @@
 // USACO 2018 February Contest, Bronze
 // Problem 3. Taming the Herd
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=809
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

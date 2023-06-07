@@ -1,8 +1,8 @@
 // USACO 2019 US Open Contest, Platinum
 // Problem 2. Compound Escape
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=949
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

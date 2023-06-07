@@ -1,8 +1,8 @@
 // USACO 2020 February Contest, Silver
 // Problem 1. Swapity Swapity Swap
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1014
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

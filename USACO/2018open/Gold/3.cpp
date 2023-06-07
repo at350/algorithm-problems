@@ -1,8 +1,8 @@
 // USACO 2018 US Open Contest, Gold
 // Problem 3. Talent Show
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=839
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

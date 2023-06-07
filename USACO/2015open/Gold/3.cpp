@@ -1,8 +1,8 @@
 // USACO 2015 US Open, Gold
 // Problem 3. Trapped in the Haybales (Gold)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=554
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

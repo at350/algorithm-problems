@@ -1,8 +1,8 @@
 // USACO 2018 January Contest, Silver
 // Problem 3. MooTube
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=788
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

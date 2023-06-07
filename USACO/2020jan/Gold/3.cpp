@@ -1,8 +1,8 @@
 // USACO 2020 January Contest, Gold
 // Problem 3. Springboards
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=995
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

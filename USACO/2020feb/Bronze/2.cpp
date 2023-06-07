@@ -1,8 +1,8 @@
 // USACO 2020 February Contest, Bronze
 // Problem 2. Mad Scientist
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1012
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

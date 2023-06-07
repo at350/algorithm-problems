@@ -1,8 +1,8 @@
 // USACO 2015 US Open, Silver
 // Problem 2. Trapped in the Haybales (Silver)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=550
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -1,8 +1,8 @@
 // USACO 2016 January Contest, Platinum
 // Problem 1. Fort Moo
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=600
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

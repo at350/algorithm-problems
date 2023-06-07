@@ -1,8 +1,8 @@
 // USACO 2015 December Contest, Platinum
 // Problem 2. High Card Low Card (Platinum)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=577
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

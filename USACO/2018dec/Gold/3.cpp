@@ -1,8 +1,8 @@
 // USACO 2018 December Contest, Gold
 // Problem 3. Teamwork
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=863
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

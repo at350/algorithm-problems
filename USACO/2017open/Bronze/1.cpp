@@ -1,8 +1,8 @@
 // USACO 2017 US Open Contest, Bronze
 // Problem 1. The Lost Cow
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=735
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

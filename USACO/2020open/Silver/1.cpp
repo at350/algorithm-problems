@@ -1,8 +1,8 @@
 // USACO 2020 US Open Contest, Silver
 // Problem 1. Social Distancing
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1038
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

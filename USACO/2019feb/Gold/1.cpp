@@ -1,8 +1,8 @@
 // USACO 2019 February Contest, Gold
 // Problem 1. Cow Land
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=921
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

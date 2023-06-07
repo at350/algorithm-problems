@@ -1,8 +1,8 @@
 // USACO 2017 US Open Contest, Gold
 // Problem 1. Bovine Genomics
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=741
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

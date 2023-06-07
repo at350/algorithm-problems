@@ -1,8 +1,8 @@
 // USACO 2017 US Open Contest, Platinum
 // Problem 1. Modern Art
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=744
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

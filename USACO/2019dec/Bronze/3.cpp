@@ -1,8 +1,8 @@
 // USACO 2019 December Contest, Bronze
 // Problem 3. Livestock Lineup
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=965
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -1,8 +1,8 @@
 // USACO 2016 US Open Contest, Silver
 // Problem 3. Closing the Farm
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=644
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

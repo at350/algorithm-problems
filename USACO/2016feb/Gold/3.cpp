@@ -1,8 +1,8 @@
 // USACO 2016 February Contest, Gold
 // Problem 3. Fenced In
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=623
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

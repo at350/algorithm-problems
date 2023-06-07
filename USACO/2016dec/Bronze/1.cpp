@@ -1,8 +1,8 @@
 // USACO 2016 December Contest, Bronze
 // Problem 1. Square Pasture
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=663
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -5,7 +5,7 @@ from USACO_common import *
 class USACOStat(MarkDownGenerator):
     def __init__(self, data_file: str) -> None:
         super().__init__(data_file)
-        self.stat = {division: default_stat for division in divisions}
+        self.stat = {division: default_stat.copy() for division in divisions}
         self.total = {division: 0 for division in divisions}
 
     def generate_division_statistics(self, division: str) -> str:

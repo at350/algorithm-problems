@@ -1,8 +1,8 @@
 // USACO 2018 December Contest, Bronze
 // Problem 3. Back and Forth
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=857
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

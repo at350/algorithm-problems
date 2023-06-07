@@ -1,8 +1,8 @@
 // USACO 2015 January Contest, Gold
 // Problem 3. Grass Cownoisseur
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=516
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

@@ -1,8 +1,8 @@
 // USACO 2020 January Contest, Gold
 // Problem 2. Farmer John Solves 3SUM
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=994
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

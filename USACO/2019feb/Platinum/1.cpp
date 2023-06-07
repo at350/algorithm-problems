@@ -1,8 +1,8 @@
 // USACO 2019 February Contest, Platinum
 // Problem 1. Cow Dating
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=924
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

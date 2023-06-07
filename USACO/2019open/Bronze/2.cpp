@@ -1,8 +1,8 @@
 // USACO 2019 US Open Contest, Bronze
 // Problem 2. Milk Factory
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=940
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

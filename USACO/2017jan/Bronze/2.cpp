@@ -1,8 +1,8 @@
 // USACO 2017 January Contest, Bronze
 // Problem 2. Hoof, Paper, Scissors
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=688
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

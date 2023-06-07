@@ -1,8 +1,8 @@
 // USACO 2015 December Contest, Gold
 // Problem 1. High Card Low Card (Gold)
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=573
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

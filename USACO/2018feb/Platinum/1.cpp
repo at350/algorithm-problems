@@ -1,8 +1,8 @@
 // USACO 2018 February Contest, Platinum
 // Problem 1. Slingshot
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=816
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

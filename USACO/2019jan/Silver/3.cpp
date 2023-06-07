@@ -1,8 +1,8 @@
 // USACO 2019 January Contest, Silver
 // Problem 3. Mountain View
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=896
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

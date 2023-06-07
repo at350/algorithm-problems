@@ -1,8 +1,8 @@
 // USACO 2023 US Open Contest, Gold
 // Problem 3. Tree Merging
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1331
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 
@@ -15,6 +15,6 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    
+
     return 0;
 }

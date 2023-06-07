@@ -1,8 +1,8 @@
 // USACO 2020 January Contest, Bronze
 // Problem 3. Race
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=989
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

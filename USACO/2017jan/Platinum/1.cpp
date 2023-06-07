@@ -1,8 +1,8 @@
 // USACO 2017 January Contest, Platinum
 // Problem 1. Promotion Counting
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=696
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

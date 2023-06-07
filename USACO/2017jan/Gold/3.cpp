@@ -1,8 +1,8 @@
 // USACO 2017 January Contest, Gold
 // Problem 3. Cow Navigation
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=695
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 

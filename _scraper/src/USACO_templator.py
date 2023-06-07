@@ -6,7 +6,7 @@ from USACO_common import *
 def get_file_io(io_file: str) -> str:
     if io_file == 'stdio' or io_file == 'interactive':
         return ''
-    return f'freopen("{io_file}.in", "r", stdin);\n{" "*4}freopen("{io_file}.out", "w", stdout);\n'
+    return f'{" "*4}freopen("{io_file}.in", "r", stdin);\n{" "*4}freopen("{io_file}.out", "w", stdout);\n'
 
 
 class USACOTemplator(Templator):
@@ -28,12 +28,12 @@ class USACOTemplator(Templator):
                         f.write(f'// {first_line}\n')
                         f.write(f'// {second_line}\n')
                         f.write(f'// link: {problem_data["link"]}\n')
-                        f.write('// status: unsolved \n')
-                        f.write('// tag: \n')
+                        f.write('// status: unsolved\n')
+                        f.write('// tag:\n')
                         f.write('\n')
 
                         with open(template_path, 'r') as template:
-                            f.write(template.read().replace('"__IO_PLACEHOLDER__";\n', get_file_io(problem_data['io_file'])))
+                            f.write(template.read().replace(f'{" "*4}"__IO_PLACEHOLDER__";\n', get_file_io(problem_data['io_file'])))
 
                     print(f'Generated template for, {first_line}, {second_line}')
 

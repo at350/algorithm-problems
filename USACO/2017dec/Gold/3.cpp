@@ -1,8 +1,8 @@
 // USACO 2017 December Contest, Gold
 // Problem 3. Haybale Feast
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=767
-// status: unsolved 
-// tag: 
+// status: unsolved
+// tag:
 
 #include <bits/stdc++.h>
 
