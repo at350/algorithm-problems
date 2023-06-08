@@ -9,7 +9,7 @@ class USACOStat(MarkDownGenerator):
         self.total = {division: 0 for division in divisions}
 
     def generate_division_statistics(self, division: str) -> str:
-        return f'#### {division} Solved {self.stat[division]["AC"]}/{self.total[division]} {self.stat[division]["AC"]/self.total[division]:.2f}%\n'
+        return f'#### {division} Solved {self.stat[division]["AC"]}/{self.total[division]} {self.stat[division]["AC"]/self.total[division]*100:.2f}%\n'
 
     def generate_statistics(self) -> None:
         md_text = ""
