@@ -29,6 +29,9 @@ jobs:
         cache-dependency-path: |
           ./_scraper/pdm.lock
 
+    - name: Install dependencies
+      run: cd _scraper && pdm install
+
     - name: run USACO markdown generator
       run: cd _scraper && pdm run src/USACO_markdown_generator.py
 

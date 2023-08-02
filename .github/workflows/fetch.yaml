@@ -1,6 +1,8 @@
 name: fetch
 
 on:
+  schedule:
+    - cron: '0 0 * 1-4,12 *'
   workflow_dispatch:
 
 jobs:
@@ -25,6 +27,9 @@ jobs:
         cache: true
         cache-dependency-path: |
           ./_scraper/pdm.lock
+
+    - name: Install dependencies
+      run: cd _scraper && pdm install
 
     - name: run USACO markdown scraper
       run: cd _scraper && pdm run src/USACO_scraper.py
