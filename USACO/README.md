@@ -1,25 +1,8 @@
 # USACO
-#### Bronze Solved 0/107 0.00%
-#### Silver Solved 0/105 0.00%
-#### Gold Solved 0/104 0.00%
-#### Platinum Solved 0/96 0.00%
-# 2023open
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Pareidolia | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1332) | [2023open/Platinum/1.cpp](2023open/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Good Bitstrings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1333) | [2023open/Platinum/2.cpp](2023open/Platinum/2.cpp) | unsolved |
-| Platinum 3 | Triples of Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1334) | [2023open/Platinum/3.cpp](2023open/Platinum/3.cpp) | unsolved |
-| Gold 1 | Custodial Cleanup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1329) | [2023open/Gold/1.cpp](2023open/Gold/1.cpp) | unsolved |
-| Gold 2 | Pareidolia | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1330) | [2023open/Gold/2.cpp](2023open/Gold/2.cpp) | unsolved |
-| Gold 3 | Tree Merging | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1331) | [2023open/Gold/3.cpp](2023open/Gold/3.cpp) | unsolved |
-| Silver 1 | Milk Sum | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1326) | [2023open/Silver/1.cpp](2023open/Silver/1.cpp) | unsolved |
-| Silver 2 | Field Day | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1327) | [2023open/Silver/2.cpp](2023open/Silver/2.cpp) | unsolved |
-| Silver 3 | Pareidolia | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1328) | [2023open/Silver/3.cpp](2023open/Silver/3.cpp) | unsolved |
-| Bronze 1 | FEB | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1323) | [2023open/Bronze/1.cpp](2023open/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Moo Language | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1324) | [2023open/Bronze/2.cpp](2023open/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Rotate and Shift | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1325) | [2023open/Bronze/3.cpp](2023open/Bronze/3.cpp) | unsolved |
-
+#### Bronze Solved 0/104 0.00%
+#### Silver Solved 0/102 0.00%
+#### Gold Solved 0/101 0.00%
+#### Platinum Solved 0/93 0.00%
 # 2023feb
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -54,23 +37,6 @@
 | Bronze 2 | Air Cownditioning II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1276) | [2023jan/Bronze/2.cpp](2023jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Moo Operations | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1277) | [2023jan/Bronze/3.cpp](2023jan/Bronze/3.cpp) | unsolved |
 
-# 2022dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Breakdown | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1260) | [2022dec/Platinum/1.cpp](2022dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Making Friends | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1261) | [2022dec/Platinum/2.cpp](2022dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | Palindromes | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1262) | [2022dec/Platinum/3.cpp](2022dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Bribing Friends | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1257) | [2022dec/Gold/1.cpp](2022dec/Gold/1.cpp) | unsolved |
-| Gold 2 | Mountains | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1258) | [2022dec/Gold/2.cpp](2022dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Strongest Friendship Group | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1259) | [2022dec/Gold/3.cpp](2022dec/Gold/3.cpp) | unsolved |
-| Silver 1 | Barn Tree | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1254) | [2022dec/Silver/1.cpp](2022dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Circular Barn | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1255) | [2022dec/Silver/2.cpp](2022dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Range Reconstruction | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1256) | [2022dec/Silver/3.cpp](2022dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Cow College | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1251) | [2022dec/Bronze/1.cpp](2022dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Feeding the Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1252) | [2022dec/Bronze/2.cpp](2022dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Reverse Engineering | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253) | [2022dec/Bronze/3.cpp](2022dec/Bronze/3.cpp) | unsolved |
-
 # 2022open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -87,6 +53,23 @@
 | Bronze 1 | Photoshoot | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1227) | [2022open/Bronze/1.cpp](2022open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Counting Liars | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1228) | [2022open/Bronze/2.cpp](2022open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Alchemy | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1229) | [2022open/Bronze/3.cpp](2022open/Bronze/3.cpp) | unsolved |
+
+# 2022dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Breakdown | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1260) | [2022dec/Platinum/1.cpp](2022dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Making Friends | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1261) | [2022dec/Platinum/2.cpp](2022dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | Palindromes | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1262) | [2022dec/Platinum/3.cpp](2022dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Bribing Friends | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1257) | [2022dec/Gold/1.cpp](2022dec/Gold/1.cpp) | unsolved |
+| Gold 2 | Mountains | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1258) | [2022dec/Gold/2.cpp](2022dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Strongest Friendship Group | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1259) | [2022dec/Gold/3.cpp](2022dec/Gold/3.cpp) | unsolved |
+| Silver 1 | Barn Tree | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1254) | [2022dec/Silver/1.cpp](2022dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Circular Barn | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1255) | [2022dec/Silver/2.cpp](2022dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Range Reconstruction | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1256) | [2022dec/Silver/3.cpp](2022dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Cow College | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1251) | [2022dec/Bronze/1.cpp](2022dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Feeding the Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1252) | [2022dec/Bronze/2.cpp](2022dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Reverse Engineering | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253) | [2022dec/Bronze/3.cpp](2022dec/Bronze/3.cpp) | unsolved |
 
 # 2022feb
 
@@ -122,23 +105,6 @@
 | Bronze 2 | Non-Transitive Dice | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1180) | [2022jan/Bronze/2.cpp](2022jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Drought | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1181) | [2022jan/Bronze/3.cpp](2022jan/Bronze/3.cpp) | unsolved |
 
-# 2021dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Tickets | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1164) | [2021dec/Platinum/1.cpp](2021dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1165) | [2021dec/Platinum/2.cpp](2021dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | HILO | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1166) | [2021dec/Platinum/3.cpp](2021dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1161) | [2021dec/Gold/1.cpp](2021dec/Gold/1.cpp) | unsolved |
-| Gold 2 | HILO | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1162) | [2021dec/Gold/2.cpp](2021dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Bracelet Crossings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1163) | [2021dec/Gold/3.cpp](2021dec/Gold/3.cpp) | unsolved |
-| Silver 1 | Closest Cow Wins | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1158) | [2021dec/Silver/1.cpp](2021dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Connecting Two Barns | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159) | [2021dec/Silver/2.cpp](2021dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Convoluted Intervals | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1160) | [2021dec/Silver/3.cpp](2021dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Lonely Photo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155) | [2021dec/Bronze/1.cpp](2021dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Air Cownditioning | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1156) | [2021dec/Bronze/2.cpp](2021dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Walking Home | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157) | [2021dec/Bronze/3.cpp](2021dec/Bronze/3.cpp) | unsolved |
-
 # 2021open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -155,6 +121,23 @@
 | Bronze 1 | Acowdemia I | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1131) | [2021open/Bronze/1.cpp](2021open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Acowdemia II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1132) | [2021open/Bronze/2.cpp](2021open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Acowdemia III | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1133) | [2021open/Bronze/3.cpp](2021open/Bronze/3.cpp) | unsolved |
+
+# 2021dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Tickets | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1164) | [2021dec/Platinum/1.cpp](2021dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1165) | [2021dec/Platinum/2.cpp](2021dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | HILO | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1166) | [2021dec/Platinum/3.cpp](2021dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1161) | [2021dec/Gold/1.cpp](2021dec/Gold/1.cpp) | unsolved |
+| Gold 2 | HILO | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1162) | [2021dec/Gold/2.cpp](2021dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Bracelet Crossings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1163) | [2021dec/Gold/3.cpp](2021dec/Gold/3.cpp) | unsolved |
+| Silver 1 | Closest Cow Wins | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1158) | [2021dec/Silver/1.cpp](2021dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Connecting Two Barns | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159) | [2021dec/Silver/2.cpp](2021dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Convoluted Intervals | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1160) | [2021dec/Silver/3.cpp](2021dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Lonely Photo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155) | [2021dec/Bronze/1.cpp](2021dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Air Cownditioning | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1156) | [2021dec/Bronze/2.cpp](2021dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Walking Home | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157) | [2021dec/Bronze/3.cpp](2021dec/Bronze/3.cpp) | unsolved |
 
 # 2021feb
 
@@ -190,23 +173,6 @@
 | Bronze 2 | Even More Odd Photos | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1084) | [2021jan/Bronze/2.cpp](2021jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Just Stalling | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1085) | [2021jan/Bronze/3.cpp](2021jan/Bronze/3.cpp) | unsolved |
 
-# 2020dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Sleeping Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1068) | [2020dec/Platinum/1.cpp](2020dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Spaceship | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1069) | [2020dec/Platinum/2.cpp](2020dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | Cowmistry | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1070) | [2020dec/Platinum/3.cpp](2020dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Replication | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1065) | [2020dec/Gold/1.cpp](2020dec/Gold/1.cpp) | unsolved |
-| Gold 2 | Bovine Genetics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1066) | [2020dec/Gold/2.cpp](2020dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Square Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1067) | [2020dec/Gold/3.cpp](2020dec/Gold/3.cpp) | unsolved |
-| Silver 1 | Cowntagion | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1062) | [2020dec/Silver/1.cpp](2020dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Rectangular Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1063) | [2020dec/Silver/2.cpp](2020dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Stuck in a Rut | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064) | [2020dec/Silver/3.cpp](2020dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Do You Know Your ABCs? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059) | [2020dec/Bronze/1.cpp](2020dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Daisy Chains | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1060) | [2020dec/Bronze/2.cpp](2020dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Stuck in a Rut | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1061) | [2020dec/Bronze/3.cpp](2020dec/Bronze/3.cpp) | unsolved |
-
 # 2020open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -223,6 +189,23 @@
 | Bronze 1 | Social Distancing I | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1035) | [2020open/Bronze/1.cpp](2020open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Social Distancing II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1036) | [2020open/Bronze/2.cpp](2020open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Cowntact Tracing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1037) | [2020open/Bronze/3.cpp](2020open/Bronze/3.cpp) | unsolved |
+
+# 2020dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Sleeping Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1068) | [2020dec/Platinum/1.cpp](2020dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Spaceship | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1069) | [2020dec/Platinum/2.cpp](2020dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | Cowmistry | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1070) | [2020dec/Platinum/3.cpp](2020dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Replication | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1065) | [2020dec/Gold/1.cpp](2020dec/Gold/1.cpp) | unsolved |
+| Gold 2 | Bovine Genetics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1066) | [2020dec/Gold/2.cpp](2020dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Square Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1067) | [2020dec/Gold/3.cpp](2020dec/Gold/3.cpp) | unsolved |
+| Silver 1 | Cowntagion | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1062) | [2020dec/Silver/1.cpp](2020dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Rectangular Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1063) | [2020dec/Silver/2.cpp](2020dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Stuck in a Rut | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064) | [2020dec/Silver/3.cpp](2020dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Do You Know Your ABCs? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059) | [2020dec/Bronze/1.cpp](2020dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Daisy Chains | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1060) | [2020dec/Bronze/2.cpp](2020dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Stuck in a Rut | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1061) | [2020dec/Bronze/3.cpp](2020dec/Bronze/3.cpp) | unsolved |
 
 # 2020feb
 
@@ -258,23 +241,6 @@
 | Bronze 2 | Photoshoot | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=988) | [2020jan/Bronze/2.cpp](2020jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Race | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=989) | [2020jan/Bronze/3.cpp](2020jan/Bronze/3.cpp) | unsolved |
 
-# 2019dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Greedy Pie Eaters | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=972) | [2019dec/Platinum/1.cpp](2019dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Bessie's Snow Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=973) | [2019dec/Platinum/2.cpp](2019dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | Tree Depth | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=974) | [2019dec/Platinum/3.cpp](2019dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Milk Pumping | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=969) | [2019dec/Gold/1.cpp](2019dec/Gold/1.cpp) | unsolved |
-| Gold 2 | Milk Visits | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=970) | [2019dec/Gold/2.cpp](2019dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Moortal Cowmbat | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=971) | [2019dec/Gold/3.cpp](2019dec/Gold/3.cpp) | unsolved |
-| Silver 1 | MooBuzz | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=966) | [2019dec/Silver/1.cpp](2019dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Meetings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=967) | [2019dec/Silver/2.cpp](2019dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Milk Visits | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=968) | [2019dec/Silver/3.cpp](2019dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Cow Gymnastics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=963) | [2019dec/Bronze/1.cpp](2019dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Where Am I? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=964) | [2019dec/Bronze/2.cpp](2019dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Livestock Lineup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=965) | [2019dec/Bronze/3.cpp](2019dec/Bronze/3.cpp) | unsolved |
-
 # 2019open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -291,6 +257,23 @@
 | Bronze 1 | Bucket Brigade | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=939) | [2019open/Bronze/1.cpp](2019open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Milk Factory | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=940) | [2019open/Bronze/2.cpp](2019open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Cow Evolution | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=941) | [2019open/Bronze/3.cpp](2019open/Bronze/3.cpp) | unsolved |
+
+# 2019dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Greedy Pie Eaters | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=972) | [2019dec/Platinum/1.cpp](2019dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Bessie's Snow Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=973) | [2019dec/Platinum/2.cpp](2019dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | Tree Depth | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=974) | [2019dec/Platinum/3.cpp](2019dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Milk Pumping | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=969) | [2019dec/Gold/1.cpp](2019dec/Gold/1.cpp) | unsolved |
+| Gold 2 | Milk Visits | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=970) | [2019dec/Gold/2.cpp](2019dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Moortal Cowmbat | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=971) | [2019dec/Gold/3.cpp](2019dec/Gold/3.cpp) | unsolved |
+| Silver 1 | MooBuzz | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=966) | [2019dec/Silver/1.cpp](2019dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Meetings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=967) | [2019dec/Silver/2.cpp](2019dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Milk Visits | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=968) | [2019dec/Silver/3.cpp](2019dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Cow Gymnastics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=963) | [2019dec/Bronze/1.cpp](2019dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Where Am I? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=964) | [2019dec/Bronze/2.cpp](2019dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Livestock Lineup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=965) | [2019dec/Bronze/3.cpp](2019dec/Bronze/3.cpp) | unsolved |
 
 # 2019feb
 
@@ -326,23 +309,6 @@
 | Bronze 2 | Sleepy Cow Sorting | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=892) | [2019jan/Bronze/2.cpp](2019jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Guess the Animal | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=893) | [2019jan/Bronze/3.cpp](2019jan/Bronze/3.cpp) | unsolved |
 
-# 2018dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Balance Beam | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=864) | [2018dec/Platinum/1.cpp](2018dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Sort It Out | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=865) | [2018dec/Platinum/2.cpp](2018dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | The Cow Gathering | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=866) | [2018dec/Platinum/3.cpp](2018dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Fine Dining | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=861) | [2018dec/Gold/1.cpp](2018dec/Gold/1.cpp) | unsolved |
-| Gold 2 | Cowpatibility | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=862) | [2018dec/Gold/2.cpp](2018dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Teamwork | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=863) | [2018dec/Gold/3.cpp](2018dec/Gold/3.cpp) | unsolved |
-| Silver 1 | Convention | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=858) | [2018dec/Silver/1.cpp](2018dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Convention II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=859) | [2018dec/Silver/2.cpp](2018dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Mooyo Mooyo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=860) | [2018dec/Silver/3.cpp](2018dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Mixing Milk | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=855) | [2018dec/Bronze/1.cpp](2018dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | The Bucket List | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=856) | [2018dec/Bronze/2.cpp](2018dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Back and Forth | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=857) | [2018dec/Bronze/3.cpp](2018dec/Bronze/3.cpp) | unsolved |
-
 # 2018open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -359,6 +325,23 @@
 | Bronze 1 | Team Tic Tac Toe | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=831) | [2018open/Bronze/1.cpp](2018open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Milking Order | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=832) | [2018open/Bronze/2.cpp](2018open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Family Tree | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=833) | [2018open/Bronze/3.cpp](2018open/Bronze/3.cpp) | unsolved |
+
+# 2018dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Balance Beam | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=864) | [2018dec/Platinum/1.cpp](2018dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Sort It Out | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=865) | [2018dec/Platinum/2.cpp](2018dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | The Cow Gathering | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=866) | [2018dec/Platinum/3.cpp](2018dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Fine Dining | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=861) | [2018dec/Gold/1.cpp](2018dec/Gold/1.cpp) | unsolved |
+| Gold 2 | Cowpatibility | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=862) | [2018dec/Gold/2.cpp](2018dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Teamwork | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=863) | [2018dec/Gold/3.cpp](2018dec/Gold/3.cpp) | unsolved |
+| Silver 1 | Convention | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=858) | [2018dec/Silver/1.cpp](2018dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Convention II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=859) | [2018dec/Silver/2.cpp](2018dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Mooyo Mooyo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=860) | [2018dec/Silver/3.cpp](2018dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Mixing Milk | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=855) | [2018dec/Bronze/1.cpp](2018dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | The Bucket List | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=856) | [2018dec/Bronze/2.cpp](2018dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Back and Forth | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=857) | [2018dec/Bronze/3.cpp](2018dec/Bronze/3.cpp) | unsolved |
 
 # 2018feb
 
@@ -394,6 +377,22 @@
 | Bronze 2 | Lifeguards | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=784) | [2018jan/Bronze/2.cpp](2018jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Out of Place | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=785) | [2018jan/Bronze/3.cpp](2018jan/Bronze/3.cpp) | unsolved |
 
+# 2017open
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Modern Art | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=744) | [2017open/Platinum/1.cpp](2017open/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Switch Grass | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=745) | [2017open/Platinum/2.cpp](2017open/Platinum/2.cpp) | unsolved |
+| Platinum 3 | COWBASIC | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=746) | [2017open/Platinum/3.cpp](2017open/Platinum/3.cpp) | unsolved |
+| Gold 1 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=741) | [2017open/Gold/1.cpp](2017open/Gold/1.cpp) | unsolved |
+| Gold 3 | Modern Art 2 | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=743) | [2017open/Gold/3.cpp](2017open/Gold/3.cpp) | unsolved |
+| Silver 1 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=738) | [2017open/Silver/1.cpp](2017open/Silver/1.cpp) | unsolved |
+| Silver 2 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=739) | [2017open/Silver/2.cpp](2017open/Silver/2.cpp) | unsolved |
+| Silver 3 | Where's Bessie? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=740) | [2017open/Silver/3.cpp](2017open/Silver/3.cpp) | unsolved |
+| Bronze 1 | The Lost Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=735) | [2017open/Bronze/1.cpp](2017open/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=736) | [2017open/Bronze/2.cpp](2017open/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Modern Art | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=737) | [2017open/Bronze/3.cpp](2017open/Bronze/3.cpp) | unsolved |
+
 # 2017dec
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -410,22 +409,6 @@
 | Bronze 1 | Blocked Billboard | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=759) | [2017dec/Bronze/1.cpp](2017dec/Bronze/1.cpp) | unsolved |
 | Bronze 2 | The Bovine Shuffle | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=760) | [2017dec/Bronze/2.cpp](2017dec/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Milk Measurement | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=761) | [2017dec/Bronze/3.cpp](2017dec/Bronze/3.cpp) | unsolved |
-
-# 2017open
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Modern Art | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=744) | [2017open/Platinum/1.cpp](2017open/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Switch Grass | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=745) | [2017open/Platinum/2.cpp](2017open/Platinum/2.cpp) | unsolved |
-| Platinum 3 | COWBASIC | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=746) | [2017open/Platinum/3.cpp](2017open/Platinum/3.cpp) | unsolved |
-| Gold 1 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=741) | [2017open/Gold/1.cpp](2017open/Gold/1.cpp) | unsolved |
-| Gold 3 | Modern Art 2 | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=743) | [2017open/Gold/3.cpp](2017open/Gold/3.cpp) | unsolved |
-| Silver 1 | Paired Up | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=738) | [2017open/Silver/1.cpp](2017open/Silver/1.cpp) | unsolved |
-| Silver 2 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=739) | [2017open/Silver/2.cpp](2017open/Silver/2.cpp) | unsolved |
-| Silver 3 | Where's Bessie? | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=740) | [2017open/Silver/3.cpp](2017open/Silver/3.cpp) | unsolved |
-| Bronze 1 | The Lost Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=735) | [2017open/Bronze/1.cpp](2017open/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Bovine Genomics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=736) | [2017open/Bronze/2.cpp](2017open/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Modern Art | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=737) | [2017open/Bronze/3.cpp](2017open/Bronze/3.cpp) | unsolved |
 
 # 2017feb
 
@@ -461,23 +444,6 @@
 | Bronze 2 | Hoof, Paper, Scissors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=688) | [2017jan/Bronze/2.cpp](2017jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Cow Tipping | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=689) | [2017jan/Bronze/3.cpp](2017jan/Bronze/3.cpp) | unsolved |
 
-# 2016dec
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Platinum 1 | Lots of Triangles | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=672) | [2016dec/Platinum/1.cpp](2016dec/Platinum/1.cpp) | unsolved |
-| Platinum 2 | Team Building | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=673) | [2016dec/Platinum/2.cpp](2016dec/Platinum/2.cpp) | unsolved |
-| Platinum 3 | Robotic Cow Herd | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=674) | [2016dec/Platinum/3.cpp](2016dec/Platinum/3.cpp) | unsolved |
-| Gold 1 | Moocast | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=669) | [2016dec/Gold/1.cpp](2016dec/Gold/1.cpp) | unsolved |
-| Gold 2 | Cow Checklist | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=670) | [2016dec/Gold/2.cpp](2016dec/Gold/2.cpp) | unsolved |
-| Gold 3 | Lasers and Mirrors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=671) | [2016dec/Gold/3.cpp](2016dec/Gold/3.cpp) | unsolved |
-| Silver 1 | Counting Haybales | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=666) | [2016dec/Silver/1.cpp](2016dec/Silver/1.cpp) | unsolved |
-| Silver 2 | Cities and States | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=667) | [2016dec/Silver/2.cpp](2016dec/Silver/2.cpp) | unsolved |
-| Silver 3 | Moocast | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=668) | [2016dec/Silver/3.cpp](2016dec/Silver/3.cpp) | unsolved |
-| Bronze 1 | Square Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=663) | [2016dec/Bronze/1.cpp](2016dec/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Block Game | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=664) | [2016dec/Bronze/2.cpp](2016dec/Bronze/2.cpp) | unsolved |
-| Bronze 3 | The Cow-Signal | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=665) | [2016dec/Bronze/3.cpp](2016dec/Bronze/3.cpp) | unsolved |
-
 # 2016open
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -494,6 +460,23 @@
 | Bronze 1 | Diamond Collector | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=639) | [2016open/Bronze/1.cpp](2016open/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Bull in a China Shop | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=640) | [2016open/Bronze/2.cpp](2016open/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Field Reduction | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=641) | [2016open/Bronze/3.cpp](2016open/Bronze/3.cpp) | unsolved |
+
+# 2016dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Lots of Triangles | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=672) | [2016dec/Platinum/1.cpp](2016dec/Platinum/1.cpp) | unsolved |
+| Platinum 2 | Team Building | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=673) | [2016dec/Platinum/2.cpp](2016dec/Platinum/2.cpp) | unsolved |
+| Platinum 3 | Robotic Cow Herd | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=674) | [2016dec/Platinum/3.cpp](2016dec/Platinum/3.cpp) | unsolved |
+| Gold 1 | Moocast | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=669) | [2016dec/Gold/1.cpp](2016dec/Gold/1.cpp) | unsolved |
+| Gold 2 | Cow Checklist | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=670) | [2016dec/Gold/2.cpp](2016dec/Gold/2.cpp) | unsolved |
+| Gold 3 | Lasers and Mirrors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=671) | [2016dec/Gold/3.cpp](2016dec/Gold/3.cpp) | unsolved |
+| Silver 1 | Counting Haybales | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=666) | [2016dec/Silver/1.cpp](2016dec/Silver/1.cpp) | unsolved |
+| Silver 2 | Cities and States | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=667) | [2016dec/Silver/2.cpp](2016dec/Silver/2.cpp) | unsolved |
+| Silver 3 | Moocast | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=668) | [2016dec/Silver/3.cpp](2016dec/Silver/3.cpp) | unsolved |
+| Bronze 1 | Square Pasture | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=663) | [2016dec/Bronze/1.cpp](2016dec/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Block Game | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=664) | [2016dec/Bronze/2.cpp](2016dec/Bronze/2.cpp) | unsolved |
+| Bronze 3 | The Cow-Signal | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=665) | [2016dec/Bronze/3.cpp](2016dec/Bronze/3.cpp) | unsolved |
 
 # 2016feb
 
@@ -529,6 +512,21 @@
 | Bronze 2 | Angry Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=592) | [2016jan/Bronze/2.cpp](2016jan/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Mowing the Field | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=593) | [2016jan/Bronze/3.cpp](2016jan/Bronze/3.cpp) | unsolved |
 
+# 2015open
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Googol | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=552) | [2015open/Gold/1.cpp](2015open/Gold/1.cpp) | unsolved |
+| Gold 2 | Palindromic Paths | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=553) | [2015open/Gold/2.cpp](2015open/Gold/2.cpp) | unsolved |
+| Gold 3 | Trapped in the Haybales (Gold) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=554) | [2015open/Gold/3.cpp](2015open/Gold/3.cpp) | unsolved |
+| Silver 1 | Bessie Goes Moo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=549) | [2015open/Silver/1.cpp](2015open/Silver/1.cpp) | unsolved |
+| Silver 2 | Trapped in the Haybales (Silver) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=550) | [2015open/Silver/2.cpp](2015open/Silver/2.cpp) | unsolved |
+| Silver 3 | Bessie's Birthday Buffet | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=551) | [2015open/Silver/3.cpp](2015open/Silver/3.cpp) | unsolved |
+| Bronze 1 | Moocryption | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=545) | [2015open/Bronze/1.cpp](2015open/Bronze/1.cpp) | unsolved |
+| Bronze 2 | Bessie Gets Even | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=546) | [2015open/Bronze/2.cpp](2015open/Bronze/2.cpp) | unsolved |
+| Bronze 3 | Trapped in the Haybales (Bronze) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=547) | [2015open/Bronze/3.cpp](2015open/Bronze/3.cpp) | unsolved |
+| Bronze 4 | Palindromic Paths (Bronze) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=548) | [2015open/Bronze/4.cpp](2015open/Bronze/4.cpp) | unsolved |
+
 # 2015dec
 
 | Problem | Problem Title | Problem Link | Code | Status |
@@ -545,21 +543,6 @@
 | Bronze 1 | Fence Painting | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=567) | [2015dec/Bronze/1.cpp](2015dec/Bronze/1.cpp) | unsolved |
 | Bronze 2 | Speeding Ticket | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=568) | [2015dec/Bronze/2.cpp](2015dec/Bronze/2.cpp) | unsolved |
 | Bronze 3 | Contaminated Milk | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=569) | [2015dec/Bronze/3.cpp](2015dec/Bronze/3.cpp) | unsolved |
-
-# 2015open
-
-| Problem | Problem Title | Problem Link | Code | Status |
-|---------|---------------|--------------|------|--------|
-| Gold 1 | Googol | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=552) | [2015open/Gold/1.cpp](2015open/Gold/1.cpp) | unsolved |
-| Gold 2 | Palindromic Paths | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=553) | [2015open/Gold/2.cpp](2015open/Gold/2.cpp) | unsolved |
-| Gold 3 | Trapped in the Haybales (Gold) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=554) | [2015open/Gold/3.cpp](2015open/Gold/3.cpp) | unsolved |
-| Silver 1 | Bessie Goes Moo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=549) | [2015open/Silver/1.cpp](2015open/Silver/1.cpp) | unsolved |
-| Silver 2 | Trapped in the Haybales (Silver) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=550) | [2015open/Silver/2.cpp](2015open/Silver/2.cpp) | unsolved |
-| Silver 3 | Bessie's Birthday Buffet | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=551) | [2015open/Silver/3.cpp](2015open/Silver/3.cpp) | unsolved |
-| Bronze 1 | Moocryption | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=545) | [2015open/Bronze/1.cpp](2015open/Bronze/1.cpp) | unsolved |
-| Bronze 2 | Bessie Gets Even | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=546) | [2015open/Bronze/2.cpp](2015open/Bronze/2.cpp) | unsolved |
-| Bronze 3 | Trapped in the Haybales (Bronze) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=547) | [2015open/Bronze/3.cpp](2015open/Bronze/3.cpp) | unsolved |
-| Bronze 4 | Palindromic Paths (Bronze) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=548) | [2015open/Bronze/4.cpp](2015open/Bronze/4.cpp) | unsolved |
 
 # 2015feb
 
