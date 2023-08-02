@@ -30,7 +30,7 @@ class Scraper:
             self.update_data()
         finally:
             with open(self.data_file, 'w') as f:
-                json.dump(self.data, f)
+                json.dump(self.data, f, indent=2)
 
     def update_data(self) -> None:
         raise NotImplementedError

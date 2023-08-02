@@ -1,10 +1,7 @@
-name: generate_markdown
+name: fetch
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -29,13 +26,13 @@ jobs:
         cache-dependency-path: |
           ./_scraper/pdm.lock
 
-    - name: run USACO markdown generator
-      run: cd _scraper && pdm run src/USACO_markdown_generator.py
+    - name: run USACO markdown scraper
+      run: cd _scraper && pdm run src/USACO_scraper.py
 
     - name: Commit and push
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-action-noreply@freezind.space'
         git diff
-        git diff-index --quiet HEAD || git commit -am "Update USACO markdown"
+        git diff-index --quiet HEAD || git commit -am "fetch the latest USACO problems"
         git push

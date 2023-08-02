@@ -73,6 +73,8 @@ class USACOScraper(Scraper):
         for link in results_links:
             self.fetch_problem(link)
 
+        self.data = dict(sorted(self.data.items(), key=contests_sort_key, reverse=True))
+
         return self.data
 
 
