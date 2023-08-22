@@ -6,7 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:744676552d9e4e603c56f7e83baef9106d5e7db05e003c836011e4d368b0f215"
+content_hash = "sha256:64b7d7f224f7f3c18d53b1ca36116303c121716820ebfeb87bbfbb7d840173c9"
 
 [[package]]
 name = "beautifulsoup4"
@@ -125,6 +125,19 @@ files = [
 ]
 
 [[package]]
+name = "python-slugify"
+version = "8.0.1"
+requires_python = ">=3.7"
+summary = "A Python slugify application that also handles Unicode"
+dependencies = [
+    "text-unidecode>=1.3",
+]
+files = [
+    {file = "python-slugify-8.0.1.tar.gz", hash = "sha256:ce0d46ddb668b3be82f4ed5e503dbc33dd815d83e2eb6824211310d3fb172a27"},
+    {file = "python_slugify-8.0.1-py2.py3-none-any.whl", hash = "sha256:70ca6ea68fe63ecc8fa4fcf00ae651fc8a5d02d93dcd12ae6d4fc7ca46c4d395"},
+]
+
+[[package]]
 name = "requests"
 version = "2.31.0"
 requires_python = ">=3.7"
@@ -148,6 +161,15 @@ summary = "A modern CSS selector implementation for Beautiful Soup."
 files = [
     {file = "soupsieve-2.4.1-py3-none-any.whl", hash = "sha256:1c1bfee6819544a3447586c889157365a27e10d88cde3ad3da0cf0ddf646feb8"},
     {file = "soupsieve-2.4.1.tar.gz", hash = "sha256:89d12b2d5dfcd2c9e8c22326da9d9aa9cb3dfab0a83a024f05704076ee8d35ea"},
+]
+
+[[package]]
+name = "text-unidecode"
+version = "1.3"
+summary = "The most basic Text::Unidecode port"
+files = [
+    {file = "text-unidecode-1.3.tar.gz", hash = "sha256:bad6603bb14d279193107714b288be206cac565dfa49aa5b105294dd5c4aab93"},
+    {file = "text_unidecode-1.3-py2.py3-none-any.whl", hash = "sha256:1311f10e8b895935241623731c2ba64f4c455287888b18189350b67134a822e8"},
 ]
 
 [[package]]

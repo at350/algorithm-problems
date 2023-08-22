@@ -9,7 +9,7 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    "__IO_PLACEHOLDER__";
+    // __IO_PLACEHOLDER__
 
     return 0;
 }
