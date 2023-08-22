@@ -2,7 +2,7 @@
 // Problem 1. Bakery
 // link: http://www.usaco.org/index.php?page=viewproblem2&cpid=1302
 // status: AC
-// tag:
+// tag: binary search
 
 import java.util.*;
 import java.io.*;
