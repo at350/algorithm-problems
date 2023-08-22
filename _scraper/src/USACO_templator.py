@@ -5,12 +5,14 @@ from USACO_common import *
 
 
 def get_file_io(io_file: str, lang: Literal["cpp", "java", "py"], indent: int) -> str:
+    if lang == 'java':
+        if io_file == 'stdio' or io_file == 'interactive':
+            return f'{" "*indent}BufferedReader in = new BufferedReader(new InputStreamReader(System.in));\n{" "*indent}PrintWriter out = new PrintWriter(new OutputStreamWriter(System.out));\n'
+        return f'{" "*indent}BufferedReader in = new BufferedReader(new FileReader("{io_file}.in"));\n{" "*indent}PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("{io_file}.out")));\n'
     if io_file == 'stdio' or io_file == 'interactive':
         return ''
     if lang == 'cpp':
         return f'{" "*indent}freopen("{io_file}.in", "r", stdin);\n{" "*indent}freopen("{io_file}.out", "w", stdout);\n'
-    if lang == 'java':
-        return f'{" "*indent}BufferedReader in = new BufferedReader(new FileReader("{io_file}.in"));\n{" "*indent}PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("{io_file}.out")));\n'
     if lang == 'py':
         return f'{" "*indent}sys.stdin = open("{io_file}.in", "r")\n{" "*indent}sys.stdout = open("{io_file}.out", "w")\n'
 
