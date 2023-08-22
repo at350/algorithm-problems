@@ -1,7 +1,7 @@
 # USACO
 #### Bronze Solved 0/104 0.00%
 #### Silver Solved 0/102 0.00%
-#### Gold Solved 1/101 0.99%
+#### Gold Solved 0/101 0.00%
 #### Platinum Solved 0/93 0.00%
 # 2023feb
 
@@ -516,7 +516,7 @@
 
 | Problem | Problem Title | Problem Link | Code | Status |
 |---------|---------------|--------------|------|--------|
-| Gold 1 | Googol | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=552) | [2015open/Gold/1.cpp](2015open/Gold/1.cpp) | AC |
+| Gold 1 | Googol | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=552) | [2015open/Gold/1.py](2015open/Gold/1.py) | unsolved |
 | Gold 2 | Palindromic Paths | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=553) | [2015open/Gold/2.py](2015open/Gold/2.py) | unsolved |
 | Gold 3 | Trapped in the Haybales (Gold) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=554) | [2015open/Gold/3.py](2015open/Gold/3.py) | unsolved |
 | Silver 1 | Bessie Goes Moo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=549) | [2015open/Silver/1.py](2015open/Silver/1.py) | unsolved |
