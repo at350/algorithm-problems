@@ -20,7 +20,7 @@ class USACOStat(MarkDownGenerator):
             md_text += '|---------|---------------|--------------|------|--------|\n'
             for division, division_data in contest_data.items():
                 for problem, problem_data in division_data.items():
-
+                    codefile = ''
                     for lang in languages:
                         if lang == 'cpp':
                             file_name =  f'{problem}.{lang}'
